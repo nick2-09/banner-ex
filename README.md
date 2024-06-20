@@ -1,1 +1,2 @@
-# banner-ex
+# banner
+Código de html para aula de Pensamento Computacional.
